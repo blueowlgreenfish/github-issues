@@ -13,6 +13,7 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
     * [hyper](https://github.com/hyperium/hyper)
     * [tower](https://github.com/tower-rs/tower)
         - [tower-cookies](https://github.com/imbolc/tower-cookies)
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
 - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
 - [wasmer](https://github.com/wasmerio/wasmer)
 - [wapm-cli](https://github.com/wasmerio/wapm-cli)
