@@ -49,6 +49,7 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 
 #### Issues
+- [[LSP] [Feature] Support InlayHint, a finalized proposal in LSP Spec 3.17](https://github.com/neovim/neovim/issues/18086)
 
 #### Pull Requests
 
