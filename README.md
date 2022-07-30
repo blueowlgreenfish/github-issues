@@ -22,12 +22,8 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [sycamore](https://github.com/sycamore-rs/sycamore)
 - [aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust)
 - [askama](https://github.com/djc/askama)
-- [comrak](https://github.com/kivikakk/comrak)
 - [rust-postgres](https://github.com/sfackler/rust-postgres)
-- [trunk](https://github.com/thedodd/trunk)
 - [jotsy](https://github.com/ohsayan/jotsy)
-- [code-like-a-pro-in-rust-book](https://github.com/brndnmtthws/code-like-a-pro-in-rust-book)
-- [fdb](https://github.com/fdb-rs/fdb)
 
 #### Issues
 - [Tracking issue: declarative macros 2.0](https://github.com/rust-lang/rust/issues/39412) - rust
@@ -58,7 +54,6 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 
 #### Projects
 - [tmux](https://github.com/tmux/tmux)
-- [foundationdb](https://github.com/apple/foundationdb/)
 
 #### Issues
 
