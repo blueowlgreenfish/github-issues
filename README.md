@@ -39,8 +39,9 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [neovim](https://github.com/neovim/neovim)
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 - [nvim-compleet](https://github.com/noib3/nvim-compleet)
-- [packer](https://github.com/wbthomason/packer.nvim)
-- [rust-tools](https://github.com/simrat39/rust-tools.nvim)
+- [packer.nvim](https://github.com/wbthomason/packer.nvim)
+- [rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim)
+- [inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim)
 - [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 
 #### Issues
