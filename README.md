@@ -27,7 +27,6 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 
 #### Issues
 - [Tracking issue: declarative macros 2.0](https://github.com/rust-lang/rust/issues/39412) - rust
-- [Allow falling back to index page in SpaRouter when serving on /](https://github.com/tokio-rs/axum/issues/933) - axum
 
 #### Pull Requests
 - [Fix indentation for closing parentheses](https://github.com/rust-lang/rust.vim/pull/444) - rust.vim
