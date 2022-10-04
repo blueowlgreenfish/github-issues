@@ -19,7 +19,7 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [wasmer](https://github.com/wasmerio/wasmer)
 - [wapm-cli](https://github.com/wasmerio/wapm-cli)
 - [enarx](https://github.com/enarx/enarx)
-- [sycamore](https://github.com/sycamore-rs/sycamore)
+- [rust-dominator](https://github.com/Pauan/rust-dominator)
 - [aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust)
 - [askama](https://github.com/djc/askama)
 - [rust-postgres](https://github.com/sfackler/rust-postgres)
