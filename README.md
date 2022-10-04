@@ -30,7 +30,6 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 
 #### Pull Requests
 - [Fix indentation for closing parentheses](https://github.com/rust-lang/rust.vim/pull/444) - rust.vim
-- [Stabilize generic associated types](https://github.com/rust-lang/rust/pull/96709) - rust
 
 ---
 ### Neovim
