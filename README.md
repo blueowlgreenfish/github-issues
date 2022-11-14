@@ -19,14 +19,11 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [wasmer](https://github.com/wasmerio/wasmer)
 - [wapm-cli](https://github.com/wasmerio/wapm-cli)
 - [enarx](https://github.com/enarx/enarx)
-- [rust-dominator](https://github.com/Pauan/rust-dominator)
+- [async-stripe](https://github.com/arlyon/async-stripe)
 - [aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust)
 - [askama](https://github.com/djc/askama)
 - [rust-postgres](https://github.com/sfackler/rust-postgres)
 - [jotsy](https://github.com/ohsayan/jotsy)
-
-#### Issues
-- [Tracking issue: declarative macros 2.0](https://github.com/rust-lang/rust/issues/39412) - rust
 
 #### Pull Requests
 - [Fix indentation for closing parentheses](https://github.com/rust-lang/rust.vim/pull/444) - rust.vim
