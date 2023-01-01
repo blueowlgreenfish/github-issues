@@ -39,6 +39,7 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim)
 - [inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim)
 - [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+- [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 
 #### Issues
 - [[LSP] [Feature] Support InlayHint, a finalized proposal in LSP Spec 3.17](https://github.com/neovim/neovim/issues/18086)
