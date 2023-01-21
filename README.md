@@ -9,6 +9,7 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
 - [tokio](https://github.com/tokio-rs/tokio)
     * [axum](https://github.com/tokio-rs/axum)
+        - [axum-flash](https://github.com/davidpdrsn/axum-flash)
         <!-- - [AxumCSRF](https://github.com/AscendingCreations/AxumCSRF) -->
     * [hyper](https://github.com/hyperium/hyper)
     * [tower](https://github.com/tower-rs/tower)
