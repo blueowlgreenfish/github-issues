@@ -36,7 +36,6 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [neovim](https://github.com/neovim/neovim)
 - [null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
-- [nvim-compleet](https://github.com/noib3/nvim-compleet)
 - [lazy.nvim](https://github.com/folke/lazy.nvim)
 - [packer.nvim](https://github.com/wbthomason/packer.nvim)
 - [rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim)
