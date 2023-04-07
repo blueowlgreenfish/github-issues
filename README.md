@@ -40,7 +40,6 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [lazy.nvim](https://github.com/folke/lazy.nvim)
 - [packer.nvim](https://github.com/wbthomason/packer.nvim)
 - [rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim)
-- [inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim)
 - [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 
