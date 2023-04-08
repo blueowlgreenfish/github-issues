@@ -44,6 +44,7 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 
 #### Issues
 - [[LSP] [Feature] Support InlayHint, a finalized proposal in LSP Spec 3.17](https://github.com/neovim/neovim/issues/18086)
+- [Error when closing Neovim with VimLeavePre autocommands that execute shell commands.](https://github.com/neovim/neovim/issues/21856)
 
 #### Pull Requests
 
