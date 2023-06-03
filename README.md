@@ -25,6 +25,7 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [askama](https://github.com/djc/askama)
 - [rust-postgres](https://github.com/sfackler/rust-postgres)
 - [jotsy](https://github.com/ohsayan/jotsy)
+- [surrealdb](https://github.com/surrealdb/surrealdb)
 
 #### Pull Requests
 - [Fix indentation for closing parentheses](https://github.com/rust-lang/rust.vim/pull/444) - rust.vim
