@@ -55,6 +55,7 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 #### Projects
 - [tmux](https://github.com/tmux/tmux)
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)
+- [KeyDB](https://github.com/Snapchat/KeyDB)
 
 #### Issues
 
