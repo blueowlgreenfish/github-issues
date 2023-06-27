@@ -19,7 +19,7 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
 - [wasmer](https://github.com/wasmerio/wasmer)
 - [wapm-cli](https://github.com/wasmerio/wapm-cli)
-<!-- - [enarx](https://github.com/enarx/enarx) -->
+- [enarx](https://github.com/enarx/enarx)
 - [async-stripe](https://github.com/arlyon/async-stripe)
 - [aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust)
 - [askama](https://github.com/djc/askama)
