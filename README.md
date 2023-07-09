@@ -14,6 +14,7 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
     * [hyper](https://github.com/hyperium/hyper)
     * [tower](https://github.com/tower-rs/tower)
         - [tower-cookies](https://github.com/imbolc/tower-cookies)
+- [rustls-acme](https://github.com/FlorianUekermann/rustls-acme)
 - [wasmtime](https://github.com/bytecodealliance/wasmtime)
 - [cargo-wasi](https://github.com/bytecodealliance/cargo-wasi)
 - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
