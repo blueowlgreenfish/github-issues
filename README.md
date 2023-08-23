@@ -24,7 +24,7 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [securestore-rs](https://github.com/neosmart/securestore-rs)
 
 #### Issues
-- [recognize a template instance and don't bother escaping it](https://github.com/djc/askama/issues/108)
+- [recognize a template instance and don't bother escaping it](https://github.com/djc/askama/issues/108) - askama
 
 #### Pull Requests
 - [Fix indentation for closing parentheses](https://github.com/rust-lang/rust.vim/pull/444) - rust.vim
@@ -43,7 +43,7 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 
 #### Issues
-- [Error when closing Neovim with VimLeavePre autocommands that execute shell commands.](https://github.com/neovim/neovim/issues/21856)
+- [Error when closing Neovim with VimLeavePre autocommands that execute shell commands.](https://github.com/neovim/neovim/issues/21856) - neovim
 
 #### Pull Requests
 
