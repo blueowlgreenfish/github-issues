@@ -26,6 +26,7 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 
 #### Issues
 - [recognize a template instance and don't bother escaping it](https://github.com/djc/askama/issues/108) - askama
+- [Support EXIF](https://github.com/image-rs/image/issues/1045) - image
 
 #### Pull Requests
 - [Fix indentation for closing parentheses](https://github.com/rust-lang/rust.vim/pull/444) - rust.vim
