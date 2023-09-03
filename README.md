@@ -19,6 +19,7 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust)
 - [askama](https://github.com/djc/askama)
 - [rust-postgres](https://github.com/sfackler/rust-postgres)
+- [skytable](https://github.com/skytable/skytable)
 - [jotsy](https://github.com/ohsayan/jotsy)
 - [surrealdb](https://github.com/surrealdb/surrealdb)
 - [securestore-rs](https://github.com/neosmart/securestore-rs)
@@ -55,7 +56,6 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 #### Projects
 - [tmux](https://github.com/tmux/tmux)
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)
-- [KeyDB](https://github.com/Snapchat/KeyDB)
 
 #### Issues
 
