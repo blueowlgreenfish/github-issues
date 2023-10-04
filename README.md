@@ -37,10 +37,8 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 
 #### Projects
 - [neovim](https://github.com/neovim/neovim)
-- [null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 - [lazy.nvim](https://github.com/folke/lazy.nvim)
-- [packer.nvim](https://github.com/wbthomason/packer.nvim)
 - [rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim)
 - [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
