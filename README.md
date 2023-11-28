@@ -13,6 +13,7 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
         - [tower-cookies](https://github.com/imbolc/tower-cookies)
     * [axum](https://github.com/tokio-rs/axum)
         - [axum-flash](https://github.com/davidpdrsn/axum-flash)
+        - [axum-server](https://github.com/programatik29/axum-server)
         <!-- - [AxumCSRF](https://github.com/AscendingCreations/AxumCSRF) -->
 - [rustls-acme](https://github.com/FlorianUekermann/rustls-acme)
 - [async-stripe](https://github.com/arlyon/async-stripe)
