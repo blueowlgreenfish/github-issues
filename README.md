@@ -25,6 +25,8 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [surrealdb](https://github.com/surrealdb/surrealdb)
 - [securestore-rs](https://github.com/neosmart/securestore-rs)
 - [image](https://github.com/image-rs/image)
+- [pingora](https://github.com/cloudflare/pingora)
+    * [river](https://github.com/memorysafety/river)
 
 #### Issues
 - [recognize a template instance and don't bother escaping it](https://github.com/djc/askama/issues/108) - askama
