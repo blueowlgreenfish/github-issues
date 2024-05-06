@@ -60,6 +60,7 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 
 #### Issues
 - [Original ip is not passed to containers](https://github.com/docker/roadmap/issues/157)
+- [Unable to retrieve user's IP address in docker swarm mode](https://github.com/moby/moby/issues/25526)
 
 #### Pull Requests
 
