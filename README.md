@@ -42,7 +42,8 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [neovim](https://github.com/neovim/neovim)
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 - [lazy.nvim](https://github.com/folke/lazy.nvim)
-- [rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim)
+- [rustaceanvim](https://github.com/mrcjkb/rustaceanvim)
+- [nvim-highlite](https://github.com/Iron-E/nvim-highlite)
 - [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 
