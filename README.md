@@ -47,7 +47,6 @@ A bunch of links to projects, issues, and pull reqeusts on github that I think a
 - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 
 #### Issues
-- [Error when closing Neovim with VimLeavePre autocommands that execute shell commands.](https://github.com/neovim/neovim/issues/21856) - neovim
 
 #### Pull Requests
 
